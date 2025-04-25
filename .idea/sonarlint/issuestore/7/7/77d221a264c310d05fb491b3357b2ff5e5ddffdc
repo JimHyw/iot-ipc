@@ -1,0 +1,7 @@
+
+@	java:S106!"+Replace this use of System.out by a logger.(·õõë
+M
+java:S1854/"7Remove this useless assignment to local variable "msg".(Ù´Ž§
+@	java:S1063"+Replace this use of System.out by a logger.(‚Ìè½
+@	java:S1067"+Replace this use of System.out by a logger.(êÇ·Ÿ
+E	java:S106@"+Replace this use of System.out by a logger.(ç·Ü°üÿÿÿÿ

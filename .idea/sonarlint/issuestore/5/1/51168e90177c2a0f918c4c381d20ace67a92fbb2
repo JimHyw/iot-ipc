@@ -1,0 +1,16 @@
+
+2
+java:S1643?"Use a StringBuilder instead.(Â–—°
+[
+java:S2184"FCast one of the operands of this multiplication operation to a "long".( J
+?	java:S106"+Replace this use of System.out by a logger.(ê­Ís
+@	java:S106"+Replace this use of System.out by a logger.(‡ŸÓ¸
+t
+java:S2142 "^Either re-interrupt this method or rethrow the "InterruptedException" that can be caught here.(ä ¹€
+Q	java:S125"<This block of commented-out lines of code should be removed.(Šò¹Î
+Q	java:S125*"<This block of commented-out lines of code should be removed.(ì£ ½
+V	java:S1251"<This block of commented-out lines of code should be removed.(Œ½¸ñûÿÿÿÿ
+V	java:S125>"<This block of commented-out lines of code should be removed.(¿‹±òıÿÿÿÿ
+P	java:S125@"<This block of commented-out lines of code should be removed.(¾ŠÉF
+E	java:S106G"+Replace this use of System.out by a logger.(´ˆ¼úÿÿÿÿ
+V	java:S125H"<This block of commented-out lines of code should be removed.(è²Çæøÿÿÿÿ

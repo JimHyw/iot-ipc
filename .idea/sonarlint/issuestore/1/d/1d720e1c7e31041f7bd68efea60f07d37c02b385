@@ -1,0 +1,173 @@
+
+`	java:S112x"FDefine and throw a dedicated exception instead of using a generic one.(“Ç“È¸ˇˇˇˇ
+a	java:S112Í"FDefine and throw a dedicated exception instead of using a generic one.(“Ç“È¸ˇˇˇˇ
+a	java:S112’"FDefine and throw a dedicated exception instead of using a generic one.(“Ç“È¸ˇˇˇˇ
+l
+java:S1192J"VDefine a constant instead of duplicating this literal "ws://127.0.0.1:8082/" 12 times.(àñëÈ
+e
+java:S1192f"ODefine a constant instead of duplicating this literal "====cmdStr4===" 3 times.(∫—™Ø
+n
+java:S1192ë"WDefine a constant instead of duplicating this literal "Access-Control-Max-Age" 3 times.(’‡«˛
+y
+java:S1192ê"]Define a constant instead of duplicating this literal "Access-Control-Allow-Headers" 3 times.(óƒ∑∞˚ˇˇˇˇ
+j
+java:S1192è"SDefine a constant instead of duplicating this literal "OPTIONS, GET, POST" 3 times.(Â»˜Ó
+j
+java:S1192Z"ODefine a constant instead of duplicating this literal "====cmdStr3===" 3 times.(æµ©Ìˇˇˇˇˇ
+w
+java:S1192%"\Define a constant instead of duplicating this literal "Access-Control-Allow-Origin" 7 times.(ã„˜√˝ˇˇˇˇ
+t
+java:S1192è"]Define a constant instead of duplicating this literal "Access-Control-Allow-Methods" 3 times.(Â»˜Ó
+o
+java:S1192Ñ"SDefine a constant instead of duplicating this literal "È¢ÑËßàÊé®ÊµÅÊàêÂäü" 3 times.(©¬¥§ˇˇˇˇˇ
+i
+java:S11927"SDefine a constant instead of duplicating this literal "È¢ÑËßàÊé®ÊµÅÂ§±Ë¥•" 3 times.(Ÿ¥éß
+]
+java:S1192ë"FDefine a constant instead of duplicating this literal "86400" 3 times.(’‡«˛
+t
+java:S1192$"YDefine a constant instead of duplicating this literal "text/json; charset=utf-8" 5 times.(æØ´ª¯ˇˇˇˇ
+d
+java:S1192N"ODefine a constant instead of duplicating this literal "====cmdStr2===" 3 times.(ÕÔœ^
+j
+java:S1192>"TDefine a constant instead of duplicating this literal "yyyy-mm-dd hh:mm:ss" 3 times.(€£úË
+x
+java:S1192Ç"\Define a constant instead of duplicating this literal "ÂºÄÂêØffmpegËøõÁ®ãËÄóÊó∂Ôºö" 4 times.(é›Ñ√¯ˇˇˇˇ
+m
+java:S1192ê"QDefine a constant instead of duplicating this literal "x-requested-with" 3 times.(óƒ∑∞˚ˇˇˇˇ
+j
+java:S1192A"ODefine a constant instead of duplicating this literal "====cmdStr1===" 3 times.(ﬂ¡ÿ˙ˇˇˇˇ
+>
+java:S1604o"(Make this anonymous inner class a lambda(…„√Æ
+?
+java:S1604·"(Make this anonymous inner class a lambda(…„√Æ
+?
+java:S1604Ã"(Make this anonymous inner class a lambda(…„√Æ
+V	java:S125"<This block of commented-out lines of code should be removed.(àﬁ≥Çˇˇˇˇˇ
+E	java:S106""+Replace this use of System.out by a logger.(Á∑‹∞¸ˇˇˇˇ
+A
+java:S14819"+Remove this unused "taskId" local variable.(Ä”®È
+A
+java:S1181Ü"%Catch Exception instead of Throwable.(ïî¯æ¯ˇˇˇˇ
+E	java:S106="+Replace this use of System.out by a logger.(Ò€Íﬂ¸ˇˇˇˇ
+E	java:S106A"+Replace this use of System.out by a logger.(ﬂ¡ÿ˙ˇˇˇˇ
+W
+java:S2438F"AReplace "argument 1" of type Thread with an instance of Runnable.(Õ∂‚¬
+W
+java:S2438G"AReplace "argument 1" of type Thread with an instance of Runnable.(ë∂˙Á
+E	java:S106H"+Replace this use of System.out by a logger.(ô≈€‰˙ˇˇˇˇ
+?	java:S106N"+Replace this use of System.out by a logger.(ÕÔœ^
+\
+java:S2438S"AReplace "argument 1" of type Thread with an instance of Runnable.(ªˆõü˚ˇˇˇˇ
+\
+java:S2438T"AReplace "argument 1" of type Thread with an instance of Runnable.(•á¸¿¸ˇˇˇˇ
+E	java:S106U"+Replace this use of System.out by a logger.(ô≈€‰˙ˇˇˇˇ
+E	java:S106Z"+Replace this use of System.out by a logger.(æµ©Ìˇˇˇˇˇ
+\
+java:S2438_"AReplace "argument 1" of type Thread with an instance of Runnable.(ÔÔî‹˛ˇˇˇˇ
+\
+java:S2438`"AReplace "argument 1" of type Thread with an instance of Runnable.(‹òâ¸ˇˇˇˇ
+E	java:S106a"+Replace this use of System.out by a logger.(ô≈€‰˙ˇˇˇˇ
+@	java:S106f"+Replace this use of System.out by a logger.(∫—™Ø
+\
+java:S2438k"AReplace "argument 1" of type Thread with an instance of Runnable.(Ù¿πŸ˘ˇˇˇˇ
+\
+java:S2438l"AReplace "argument 1" of type Thread with an instance of Runnable.(–ˇÕ€˚ˇˇˇˇ
+E	java:S106m"+Replace this use of System.out by a logger.(ô≈€‰˙ˇˇˇˇ
+t
+java:S2142w"^Either re-interrupt this method or rethrow the "InterruptedException" that can be caught here.(‰†πÄ
+F	java:S106Ç"+Replace this use of System.out by a logger.(é›Ñ√¯ˇˇˇˇ
+Q	java:S125~"<This block of commented-out lines of code should be removed.(Ñîç™
+F	java:S106á"+Replace this use of System.out by a logger.(§è∏§˚ˇˇˇˇ
+F	java:S106î"+Replace this use of System.out by a logger.(Á∑‹∞¸ˇˇˇˇ
+W	java:S125ê"<This block of commented-out lines of code should be removed.(°Í—¿ˇˇˇˇˇ
+B
+java:S1481ß"+Remove this unused "taskId" local variable.(Ä”®È
+A
+java:S1181Û"%Catch Exception instead of Throwable.(ïî¯æ¯ˇˇˇˇ
+F	java:S106´"+Replace this use of System.out by a logger.(Ò€Íﬂ¸ˇˇˇˇ
+F	java:S106Ø"+Replace this use of System.out by a logger.(ﬂ¡ÿ˙ˇˇˇˇ
+X
+java:S2438∂"AReplace "argument 1" of type Thread with an instance of Runnable.(Õ∂‚¬
+X
+java:S2438∑"AReplace "argument 1" of type Thread with an instance of Runnable.(ë∂˙Á
+F	java:S106∏"+Replace this use of System.out by a logger.(ô≈€‰˙ˇˇˇˇ
+@	java:S106Ω"+Replace this use of System.out by a logger.(ÕÔœ^
+]
+java:S2438√"AReplace "argument 1" of type Thread with an instance of Runnable.(ªˆõü˚ˇˇˇˇ
+]
+java:S2438ƒ"AReplace "argument 1" of type Thread with an instance of Runnable.(•á¸¿¸ˇˇˇˇ
+F	java:S106≈"+Replace this use of System.out by a logger.(ô≈€‰˙ˇˇˇˇ
+F	java:S106 "+Replace this use of System.out by a logger.(æµ©Ìˇˇˇˇˇ
+]
+java:S2438–"AReplace "argument 1" of type Thread with an instance of Runnable.(ÔÔî‹˛ˇˇˇˇ
+]
+java:S2438—"AReplace "argument 1" of type Thread with an instance of Runnable.(‹òâ¸ˇˇˇˇ
+F	java:S106“"+Replace this use of System.out by a logger.(ô≈€‰˙ˇˇˇˇ
+R	java:S125‘"<This block of commented-out lines of code should be removed.(à˙ÿì
+A	java:S106ÿ"+Replace this use of System.out by a logger.(∫—™Ø
+]
+java:S2438›"AReplace "argument 1" of type Thread with an instance of Runnable.(Ù¿πŸ˘ˇˇˇˇ
+]
+java:S2438ﬁ"AReplace "argument 1" of type Thread with an instance of Runnable.(–ˇÕ€˚ˇˇˇˇ
+F	java:S106ﬂ"+Replace this use of System.out by a logger.(ô≈€‰˙ˇˇˇˇ
+u
+java:S2142È"^Either re-interrupt this method or rethrow the "InterruptedException" that can be caught here.(‰†πÄ
+F	java:S106Ô"+Replace this use of System.out by a logger.(é›Ñ√¯ˇˇˇˇ
+F	java:S106Ù"+Replace this use of System.out by a logger.(§è∏§˚ˇˇˇˇ
+W	java:S125˚"<This block of commented-out lines of code should be removed.(°Í—¿ˇˇˇˇˇ
+W	java:S125å"<This block of commented-out lines of code should be removed.(§ˇª≤ˇˇˇˇˇ
+R	java:S125é"<This block of commented-out lines of code should be removed.(Ô›Å⁄
+B
+java:S1481ì"+Remove this unused "taskId" local variable.(Ä”®È
+A
+java:S1181ﬁ"%Catch Exception instead of Throwable.(ïî¯æ¯ˇˇˇˇ
+F	java:S106ó"+Replace this use of System.out by a logger.(Ò€Íﬂ¸ˇˇˇˇ
+F	java:S106õ"+Replace this use of System.out by a logger.(ﬂ¡ÿ˙ˇˇˇˇ
+X
+java:S2438°"AReplace "argument 1" of type Thread with an instance of Runnable.(Õ∂‚¬
+X
+java:S2438¢"AReplace "argument 1" of type Thread with an instance of Runnable.(ë∂˙Á
+F	java:S106£"+Replace this use of System.out by a logger.(ô≈€‰˙ˇˇˇˇ
+@	java:S106®"+Replace this use of System.out by a logger.(ÕÔœ^
+]
+java:S2438Æ"AReplace "argument 1" of type Thread with an instance of Runnable.(ªˆõü˚ˇˇˇˇ
+]
+java:S2438Ø"AReplace "argument 1" of type Thread with an instance of Runnable.(•á¸¿¸ˇˇˇˇ
+F	java:S106∞"+Replace this use of System.out by a logger.(ô≈€‰˙ˇˇˇˇ
+F	java:S106µ"+Replace this use of System.out by a logger.(æµ©Ìˇˇˇˇˇ
+]
+java:S2438ª"AReplace "argument 1" of type Thread with an instance of Runnable.(ÔÔî‹˛ˇˇˇˇ
+]
+java:S2438º"AReplace "argument 1" of type Thread with an instance of Runnable.(‹òâ¸ˇˇˇˇ
+F	java:S106Ω"+Replace this use of System.out by a logger.(ô≈€‰˙ˇˇˇˇ
+R	java:S125ø"<This block of commented-out lines of code should be removed.(à˙ÿì
+A	java:S106√"+Replace this use of System.out by a logger.(∫—™Ø
+]
+java:S2438»"AReplace "argument 1" of type Thread with an instance of Runnable.(Ù¿πŸ˘ˇˇˇˇ
+]
+java:S2438…"AReplace "argument 1" of type Thread with an instance of Runnable.(–ˇÕ€˚ˇˇˇˇ
+F	java:S106 "+Replace this use of System.out by a logger.(ô≈€‰˙ˇˇˇˇ
+u
+java:S2142‘"^Either re-interrupt this method or rethrow the "InterruptedException" that can be caught here.(‰†πÄ
+F	java:S106⁄"+Replace this use of System.out by a logger.(é›Ñ√¯ˇˇˇˇ
+F	java:S106ﬂ"+Replace this use of System.out by a logger.(§è∏§˚ˇˇˇˇ
+W	java:S125Ê"<This block of commented-out lines of code should be removed.(°Í—¿ˇˇˇˇˇ
+A
+java:S1181Ü"%Catch Exception instead of Throwable.(ïî¯æ¯ˇˇˇˇ
+z
+java:S2142Ü"^Either re-interrupt this method or rethrow the "InterruptedException" that can be caught here.(ïî¯æ¯ˇˇˇˇ
+F	java:S106˜"+Replace this use of System.out by a logger.(Ò€Íﬂ¸ˇˇˇˇ
+W	java:S125˘"<This block of commented-out lines of code should be removed.(í◊°‘ˇˇˇˇˇ
+F	java:S106˚"+Replace this use of System.out by a logger.(”ë‰ß˚ˇˇˇˇ
+]
+java:S2438ˇ"AReplace "argument 1" of type Thread with an instance of Runnable.(ı≈Œ„˙ˇˇˇˇ
+W
+java:S2438Ä"AReplace "argument 1" of type Thread with an instance of Runnable.(∏‚æ(
+F	java:S106Å"+Replace this use of System.out by a logger.(ô≈€‰˙ˇˇˇˇ
+F	java:S106Ç"+Replace this use of System.out by a logger.(é›Ñ√¯ˇˇˇˇ
+F	java:S106á"+Replace this use of System.out by a logger.(§è∏§˚ˇˇˇˇ
+X
+java:S1075û"ARefactor your code to get this URI from a customizable parameter.(à“ûŸ
+W	java:S125¢"<This block of commented-out lines of code should be removed.(ñØ–¶˝ˇˇˇˇ
+A	java:S106¨"+Replace this use of System.out by a logger.(∂—¢È
+A	java:S106¬"+Replace this use of System.out by a logger.(∑ııÎ

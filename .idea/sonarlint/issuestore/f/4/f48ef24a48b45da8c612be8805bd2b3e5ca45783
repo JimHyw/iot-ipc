@@ -1,0 +1,120 @@
+
+a	java:S112Ù"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ
+a	java:S112¼"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ
+a	java:S112©"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ
+_
+java:S1192D"IDefine a constant instead of duplicating this literal " http://" 4 times.(¤¾ôÔ
+x
+java:S1192ª"\Define a constant instead of duplicating this literal "Access-Control-Allow-Origin" 7 times.(‹ã÷Ãıÿÿÿÿ
+o
+java:S1192á"SDefine a constant instead of duplicating this literal "é¢„è§ˆæ¨æµæˆåŠŸ" 3 times.(©Â´¤ÿÿÿÿÿ
+u
+java:S1192©"YDefine a constant instead of duplicating this literal "text/json; charset=utf-8" 7 times.(¾¯«»øÿÿÿÿ
+k
+java:S1192º"TDefine a constant instead of duplicating this literal "yyyy-mm-dd hh:mm:ss" 3 times.(Û£œè
+i
+java:S1192H"NDefine a constant instead of duplicating this literal "/supersecret/" 4 times.(€Ìéÿÿÿÿÿ
+e
+java:S1192Ä"NDefine a constant instead of duplicating this literal "====cmdStr===" 3 times.(–îó£
+f
+java:S1192í"JDefine a constant instead of duplicating this literal "resultï¼š" 3 times.(ç·Ü°üÿÿÿÿ
+x
+java:S1192ß"\Define a constant instead of duplicating this literal "å¼€å¯ffmpegè¿›ç¨‹è€—æ—¶ï¼š" 3 times.(İ„Ãøÿÿÿÿ
+b
+java:S1192Ê"FDefine a constant instead of duplicating this literal "ws://" 3 times.(›êœıÿÿÿÿ
+?
+java:S1604Î"(Make this anonymous inner class a lambda(ÉãÃ®
+?
+java:S1604­"(Make this anonymous inner class a lambda(ÉãÃ®
+?
+java:S1604£"(Make this anonymous inner class a lambda(ÉãÃ®
+P
+java:S1854K":Remove this useless assignment to local variable "cmdStr".(Õ£ø†
+S
+java:S1854$"8Remove this useless assignment to local variable "wsIP".(ø²¨ÿıÿÿÿÿ
+V	java:S125"<This block of commented-out lines of code should be removed.(¥¥„ùÿÿÿÿ
+F
+java:S1481"+Remove this unused "cmdStr" local variable.(ÁÂò½ÿÿÿÿÿ
+D
+java:S1481$")Remove this unused "wsIP" local variable.(ø²¨ÿıÿÿÿÿ
+Q	java:S125?"<This block of commented-out lines of code should be removed.( µßİ
+V	java:S125O"<This block of commented-out lines of code should be removed.(÷³È×øÿÿÿÿ
+V	java:S125S"<This block of commented-out lines of code should be removed.(ÎÑº¶şÿÿÿÿ
+Q
+java:S1854˜":Remove this useless assignment to local variable "cmdStr".(´ï÷œ
+S
+java:S1854e"8Remove this useless assignment to local variable "wsIP".(ø²¨ÿıÿÿÿÿ
+F
+java:S1481]"+Remove this unused "cmdStr" local variable.(ÁÂò½ÿÿÿÿÿ
+D
+java:S1481e")Remove this unused "wsIP" local variable.(ø²¨ÿıÿÿÿÿ
+Q	java:S125|"<This block of commented-out lines of code should be removed.(×—ñŠ
+R	java:S125‹"<This block of commented-out lines of code should be removed.( µßİ
+R	java:S125™"<This block of commented-out lines of code should be removed.(òüÇ£
+W	java:S125›"<This block of commented-out lines of code should be removed.(ÎÑº¶şÿÿÿÿ
+F	java:S106¡"+Replace this use of System.out by a logger.(‹İ×¿ıÿÿÿÿ
+F	java:S106¦"+Replace this use of System.out by a logger.(Èê©Øùÿÿÿÿ
+A
+java:S1181ã"%Catch Exception instead of Throwable.(•”ø¾øÿÿÿÿ
+F	java:S106¹"+Replace this use of System.out by a logger.(ñÛêßüÿÿÿÿ
+F	java:S106»"+Replace this use of System.out by a logger.(ñÂ¹ùøÿÿÿÿ
+A	java:S106¼"+Replace this use of System.out by a logger.(Î²İÎ
+A	java:S106Ä"+Replace this use of System.out by a logger.(–îó£
+]
+java:S2438È"AReplace "argument 1" of type Thread with an instance of Runnable.(õÅÎãúÿÿÿÿ
+W
+java:S2438É"AReplace "argument 1" of type Thread with an instance of Runnable.(¸â¾(
+F	java:S106Ë"+Replace this use of System.out by a logger.(™ÅÛäúÿÿÿÿ
+u
+java:S2142Ø"^Either re-interrupt this method or rethrow the "InterruptedException" that can be caught here.(ä ¹€
+R	java:S125Ò"<This block of commented-out lines of code should be removed.(‡ØŸÅ
+A	java:S106Ö"+Replace this use of System.out by a logger.(½½•
+F	java:S106ß"+Replace this use of System.out by a logger.(İ„Ãøÿÿÿÿ
+F	java:S106ä"+Replace this use of System.out by a logger.(¤¸¤ûÿÿÿÿ
+F	java:S106í"+Replace this use of System.out by a logger.(ç·Ü°üÿÿÿÿ
+i
+java:S3776ô"RRefactor this method to reduce its Cognitive Complexity from 21 to the 15 allowed.(êäØ¾
+A	java:S106õ"+Replace this use of System.out by a logger.(Í”—´
+A
+java:S1181Æ"%Catch Exception instead of Throwable.(•”ø¾øÿÿÿÿ
+F	java:S106†"+Replace this use of System.out by a logger.(ñÛêßüÿÿÿÿ
+F	java:S106ˆ"+Replace this use of System.out by a logger.(ñÂ¹ùøÿÿÿÿ
+Z
+java:S1155™">Use isEmpty() to check whether the collection is empty or not.(¶¸ã›ûÿÿÿÿ
+A	java:S106Ÿ"+Replace this use of System.out by a logger.(–îó£
+]
+java:S2438¤"AReplace "argument 1" of type Thread with an instance of Runnable.(õÅÎãúÿÿÿÿ
+W
+java:S2438¥"AReplace "argument 1" of type Thread with an instance of Runnable.(¸â¾(
+F	java:S106§"+Replace this use of System.out by a logger.(™ÅÛäúÿÿÿÿ
+u
+java:S2142»"^Either re-interrupt this method or rethrow the "InterruptedException" that can be caught here.(ä ¹€
+A	java:S106·"+Replace this use of System.out by a logger.(½½•
+F	java:S106Â"+Replace this use of System.out by a logger.(İ„Ãøÿÿÿÿ
+F	java:S106Ç"+Replace this use of System.out by a logger.(¤¸¤ûÿÿÿÿ
+F	java:S106Ğ"+Replace this use of System.out by a logger.(ç·Ü°üÿÿÿÿ
+W	java:S125Û"<This block of commented-out lines of code should be removed.(¡êÑÀÿÿÿÿÿ
+A	java:S106ä"+Replace this use of System.out by a logger.(·õõë
+R
+java:S1854”";Remove this useless assignment to local variable "current".(Û£œè
+F	java:S106ó"+Replace this use of System.out by a logger.(‹İ×¿ıÿÿÿÿ
+F	java:S106õ"+Replace this use of System.out by a logger.(Èê©Øùÿÿÿÿ
+F	java:S106ö"+Replace this use of System.out by a logger.(èÿÃ®üÿÿÿÿ
+F	java:S106÷"+Replace this use of System.out by a logger.(Ğÿ”Õÿÿÿÿÿ
+A
+java:S1181³"%Catch Exception instead of Throwable.(•”ø¾øÿÿÿÿ
+F	java:S106’"+Replace this use of System.out by a logger.(ñÛêßüÿÿÿÿ
+C
+java:S1481”",Remove this unused "current" local variable.(Û£œè
+W	java:S125•"<This block of commented-out lines of code should be removed.(ø“ÿùÿÿÿÿ
+A	java:S106™"+Replace this use of System.out by a logger.(–îó£
+]
+java:S2438"AReplace "argument 1" of type Thread with an instance of Runnable.(õÅÎãúÿÿÿÿ
+W
+java:S2438"AReplace "argument 1" of type Thread with an instance of Runnable.(¸â¾(
+F	java:S106 "+Replace this use of System.out by a logger.(™ÅÛäúÿÿÿÿ
+u
+java:S2142¨"^Either re-interrupt this method or rethrow the "InterruptedException" that can be caught here.(ä ¹€
+F	java:S106¯"+Replace this use of System.out by a logger.(­Æêëüÿÿÿÿ
+F	java:S106´"+Replace this use of System.out by a logger.(¤¸¤ûÿÿÿÿ
+F	java:S106½"+Replace this use of System.out by a logger.(ç·Ü°üÿÿÿÿ

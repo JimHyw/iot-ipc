@@ -1,0 +1,20 @@
+
+[	java:S112a"FDefine and throw a dedicated exception instead of using a generic one.(¾Ã†
+J
+java:S3740"/Provide the parametrized type for this generic.(¢öû¤úÿÿÿÿ
+J
+java:S3740"/Provide the parametrized type for this generic.(¢öû¤úÿÿÿÿ
+m
+java:S3776"RRefactor this method to reduce its Cognitive Complexity from 16 to the 15 allowed.(ßª¼¬üÿÿÿÿ
+t
+java:S2142\"^Either re-interrupt this method or rethrow the "InterruptedException" that can be caught here.(”ı¾
+T
+java:S4719"9Replace charset name argument with StandardCharsets.UTF_8(É°ÁÎúÿÿÿÿ
+<	java:S1312""Add a default case to this switch.(Åİ¶Ìøÿÿÿÿ
+V	java:S1258"<This block of commented-out lines of code should be removed.(ŒÙ¾şÿÿÿÿ
+V	java:S125<"<This block of commented-out lines of code should be removed.(ìë¥•øÿÿÿÿ
+V	java:S125O"<This block of commented-out lines of code should be removed.(ì¯ÿ¸ùÿÿÿÿ
+V	java:S125R"<This block of commented-out lines of code should be removed.(âíşºøÿÿÿÿ
+?	java:S106X"+Replace this use of System.out by a logger.(·ñåf
+‚
+java:S1130a"lRemove the declaration of thrown exception 'java.lang.Exception', as it cannot be thrown from method's body.(¾Ã†
